@@ -18,6 +18,7 @@ Collection of activities and assessments in fullfillment of the course requireme
 - Bipolar Junction Trasistor
 
 Start date: January 25 5, 2021
+
 End date: June 7, 2021
 
 ## EE236L: Circuit Analysis
@@ -28,4 +29,5 @@ End date: June 7, 2021
 - Blocks
 
 Start date: February 5, 2021
+
 End date: June 4, 2021
