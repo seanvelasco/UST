@@ -17,7 +17,7 @@ Collection of activities and assessments in fullfillment of the course requireme
 - Zener diodes
 - Bipolar Junction Trasistor
 
-Start date: January 25 5, 2021
+Start date: January 25, 2021
 
 End date: June 7, 2021
 
