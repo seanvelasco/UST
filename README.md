@@ -10,7 +10,7 @@ Collection of activities and assessments in fullfillment of the course requireme
 
 ## EE234L: MATLAB
 
-## EE238: Electronics Circuits
+## EE238: Electronic Circuits
 - Junction diodes
 - Rectifiers
 - Clippers and clampers
