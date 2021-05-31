@@ -1,5 +1,5 @@
 # University of Santo Tomas
-## Faculty of Engineering, Electrical Engineering Department
+### Faculty of Engineering, Electrical Engineering Department
 Collection of activities and assessments in fullfillment of the course requirements for BSEE offered by UST
 
 ## [ENG209: C++](https://github.com/seanvelasco/UST/tree/main/ENG209)
