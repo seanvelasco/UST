@@ -9,6 +9,9 @@ Collection of activities and assessments in fullfillment of the course requireme
 
 
 ## [EE234L: MATLAB](https://github.com/seanvelasco/UST/tree/main/EE234L)
+- Basic operations
+- Matrices & Vectors
+- Data Visualization
 
 ## [EE238: Electronic Circuits](https://github.com/seanvelasco/UST/tree/main/EE238)
 - Junction diodes
