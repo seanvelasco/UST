@@ -36,3 +36,11 @@ End date: June 7, 2021
 Start date: February 5, 2021
 
 End date: June 4, 2021
+
+## [EE2315: Industrial Electronics](https://github.com/seanvelasco/UST/tree/main/EE2315)
+- SIlicon Controlled Rectifier (SCR)
+- Gate Control for Triggering SCRs in AC Circuits
+
+Start date: August 16, 2021
+
+End date: December 20, 2021
